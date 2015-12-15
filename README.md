@@ -1,6 +1,17 @@
-Use your Lightpack as Christmas/holiday lights!
+Use your [Lightpack](http://lightpack.tv/) as holiday lights!
 
-## Enable the Prismatik API
+![](https://giant.gfycat.com/CooperativeQuarterlyAustrianpinscher.gif)
+
+## What is a Lightpack?
+>The Lightpack is an open-source content-driven lighting system that’s compatible with TV or PC, Mac, HTPC displays and allows you to watch TV, get your gaming on and more at night without hurting your eyes.
+
+
+## Requirements
+* A Lightpack
+* Prismatik with API enabled
+* Python
+
+### Enable the Prismatik API
 [![](http://img.ctrlv.in/img/15/12/15/567085a59becf.png)](http://ctrlv.in/684945)
 
 ## Run the script
